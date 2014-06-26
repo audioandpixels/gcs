@@ -1,4 +1,4 @@
-Configuration files for Google Cloud Storage buckets
+## Configuration files for Google Cloud Storage buckets
 
 Set bucket CORS policy:
 gsutil cors set cors_config.json gs://am-tmp
